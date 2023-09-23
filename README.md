@@ -1,9 +1,9 @@
-# lrbutler-repo
+# Shortest Route Simulator
 
-Compile the project:
+## Compile the project:
 
 make comp
 
-Run a test:
+## Run a test:
 
 make test
